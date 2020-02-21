@@ -8,4 +8,4 @@ def meal_choice(veg1, veg2, protein = "meat")
   return order
 end
 
-meal_choice("Carrots", "Onions", "meat")
+meal_choice("Carrots", "Onions")
